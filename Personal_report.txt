@@ -1,0 +1,15 @@
+**The following is a personal report reflecting on what I have learned throughout this project.**
+
+As I worked on this programming project, I saw noticeable improvement in my understanding of object-oriented programming.
+When I first started this Scrabble-like game, I had a general idea of classes and constructors, but limited experience
+working with them. I did a lot of research on Java and really trying to understand the language, I learned how to sort
+and search for work using Java's built in methods. I also became more comfortable with using data structures like ArrayList,
+and Hashmaps.
+
+One of my biggest challenges was making sure the random letters were being generated could actually form a real word. Initially,
+I used a method that picked completely random letters, this wasn't very smart since it often resulted in gibberish. Luckily, I
+fixed this by modifying the logic to randomly choose a real 4-letter word from the word list, scramble it, and then give it to the
+player. Of course, I also ran into general bugs like not having correct punctuation, incorrect letters, etc.
+
+Overall, this project helped reinforce my object-oriented programming skills, showed me how to use Java'a data structures effectively,
+and was overall fun to overcome and work on.
